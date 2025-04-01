@@ -1,0 +1,8 @@
+argilla
+datasets
+sphn
+
+librosa
+soundfile
+
+ruff
